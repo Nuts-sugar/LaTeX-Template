@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}\large 引入压缩态}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}相干态}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}光的压缩态：量子涨落的减少}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}压缩真空态的平均光子数和光子数方差}{5}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}压缩真空态正交算符的平均值与方差}{6}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}压缩真空态的光子数分布}{8}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}平移压缩真空态和压缩相干态}{9}{subsection.1.6}%
+\contentsline {section}{\numberline {2}\large 压缩态光场的产生}{10}{section.2}%
+\contentsline {subsection}{\numberline {2.1}简并参量下转换}{10}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}简并四波混频}{11}{subsection.2.2}%
+\contentsline {section}{\numberline {3}\large 压缩态的应用}{12}{section.3}%
+\contentsline {subsection}{\numberline {3.1}干涉测量：提高激光干涉引力波探测的灵敏度}{12}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}量子计算：实现量子逻辑门序列}{14}{subsection.3.2}%
+\contentsline {section}{\numberline {4}\large 小结/心得}{15}{section.4}%
